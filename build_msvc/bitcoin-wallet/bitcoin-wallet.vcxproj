@@ -19,7 +19,7 @@
       <Project>{2b384fa8-9ee1-4544-93cb-0d733c25e8ce}</Project>
     </ProjectReference>
     <ProjectReference Include="..\libbitcoin_common\libbitcoin_common.vcxproj">
-      <Project>{7c87e378-df58-482e-aa2f-1bc129bc19ce}</Project>
+      <Project>{7c87e378-df58-482e-aa2f-bc129bc19ce}</Project>
     </ProjectReference>
     <ProjectReference Include="..\libbitcoin_crypto\libbitcoin_crypto.vcxproj">
       <Project>{6190199c-6cf4-4dad-bfbd-93fa72a760c1}</Project>

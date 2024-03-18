@@ -20,7 +20,7 @@
     <ClCompile Include="..\..\src\qt\clientmodel.cpp" />
     <ClCompile Include="..\..\src\qt\coincontroldialog.cpp" />
     <ClCompile Include="..\..\src\qt\coincontroltreewidget.cpp" />
-    <ClCompile Include="..\..\src\qt\createwalletdialog.cpp" />
+    <ClCompile Include="..\..\src\qt\createwalletdialog.cpp" />le
     <ClCompile Include="..\..\src\qt\csvmodelwriter.cpp" />
     <ClCompile Include="..\..\src\qt\editaddressdialog.cpp" />
     <ClCompile Include="..\..\src\qt\guiutil.cpp" />
